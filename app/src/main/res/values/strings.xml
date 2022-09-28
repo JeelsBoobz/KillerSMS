@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KillerSMS</string>
+    <string name="app_desc">Disable Flash SMS in Google Messages App.</string>
+</resources>
